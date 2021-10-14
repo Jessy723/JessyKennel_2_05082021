@@ -14,6 +14,7 @@
 h3
 {
     font-size: 1em;
+    
 }
 
 /* Header et navigation */
@@ -206,6 +207,7 @@ header
     align-items: center;
     flex-direction: column-reverse;
     width: 100%;
+    
 }
 
 #conthebergpop
@@ -219,6 +221,7 @@ header
     padding-bottom: 30px;
     padding-left: 12px;
     padding-right: 12px;
+    
 }
 
 .hebergementspop
@@ -226,11 +229,17 @@ header
     width: 100%;
     margin-left: 5px;
     margin-right: 5px;
+    
+    
+    
+
 }
 
 .lienhebergpop
 {
     width: 90%;
+    
+    
 }
 
 #hebergpop
@@ -241,6 +250,8 @@ header
     margin-left: unset;
     display: flex;
     justify-content: space-between;
+  
+   
 }
 
 .figcaptionhebergementpop
@@ -251,6 +262,7 @@ header
     margin-left: 10px;
     margin-bottom: 10px;
     width: auto;
+ 
 }
 
 .popfig
@@ -259,13 +271,16 @@ header
     margin-left: unset;
     margin-right: unset;
     width: 100%;
+    
 }
 
 
 .popfig i
 {
     margin-top: unset;
+    
 }
+
 
 /* Hébergements */
 
