@@ -311,6 +311,16 @@ header
     color: #0065fc;
 }
 
+.figcaptionhebergement .gris 
+{
+    color: #F2F2F2;
+
+}
+.figcaptionhebergementpop .gris
+{
+    color: #F2F2F2;
+}
+
 .hebergprix
 {
     font-weight: bold;
